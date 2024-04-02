@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"ULCD 16x2",1," LCD 16 x 2"
+"Bat2-AAA-Baterries2",1,"2 batteries, AAA, no 1.5V Battery"
+"QTransistor TIP120",1," TIP120"
+"UArduino",1," Arduino Uno R3"
+"MDc Motor",1," DC Motor"
+"RResistance 886 Ohm ",1,"886 Ω Resistor"
+"SButton",1," Pushbutton"
+"RResistance 1 kOhm",1,"1 kΩ Resistor"
+"RResistance 220 Ohm",1,"220 Ω Resistor"
+"RpotPotentiometer1",1,"250 kΩ Potentiometer"
