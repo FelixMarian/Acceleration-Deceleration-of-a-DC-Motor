@@ -1,4 +1,4 @@
-# Acceleration Deceleration of a DC Motor
+# Acceleration and deceleration of a DC Motor
 
 This project demonstrates controlling a DC motor using an Arduino and a push-button. The motor's speed increases and decreases gradually when the button is pressed. If the button is held for 2 seconds, the motor shuts down if running or starts up if stopped.
 
