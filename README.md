@@ -13,17 +13,18 @@ This project demonstrates controlling a DC motor using an Arduino and a push-but
 - [Credits](#credits)
 
 ## Components Used
-- Arduino UNO
-- Breadboard
-- TIP120 transistor
-- 3V DC motor
-- Push-button
-- 886 Ω Resistor
-- 1 kΩ Resistor
-- 250 kΩ Potentiometer
-- 2 AAA 1.5V batteries
-- LCD 16x2
-- Male-to-male jumper wires
+- 1x Arduino UNO
+- 1x Breadboard
+- 1x TIP120 transistor
+- 1x 3V DC motor
+- 1x Push-button
+- 1x 886 Ω Resistor
+- 1x 1 kΩ Resistor
+- 1x 250 kΩ Potentiometer
+- 2x AA 1.5V batteries
+- 1x Battery Holder 2-AA
+- 1x LCD 16x2
+- (A lot)x Male-to-male jumper wires
 
 ## Circuit Diagram
 ![Tinkercad-assembly](https://github.com/FelixMarian/Acceleration-Deceleration-of-a-DC-Motor/assets/118266856/ac392b53-2e15-4e96-b46d-f089c91c19f3)
