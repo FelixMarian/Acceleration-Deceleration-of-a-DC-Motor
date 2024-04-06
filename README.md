@@ -23,6 +23,7 @@ This project demonstrates controlling a DC motor using an Arduino and a push-but
 - 250 kΩ Potentiometer
 - 2 AAA 1.5V batteries
 - LCD 16x2
+- Male-to-male jumper wires
 
 ## Circuit Diagram
 ![Tinkercad-assembly](https://github.com/FelixMarian/Acceleration-Deceleration-of-a-DC-Motor/assets/118266856/ac392b53-2e15-4e96-b46d-f089c91c19f3)
