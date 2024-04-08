@@ -66,7 +66,7 @@ These cycles provide a smooth and controlled way to adjust the motor's speed.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
-- **Author**: STOENOIU Felix-Marian
+- **Author**: Felix-Marian STOENOIU
 - **Email**: Stoenoiu.Felix1@gmail.com
-- **GitHub**: [My GitHub profile]([https://github.com/yourusername](https://github.com/FelixMarian))
+- **GitHub**: [My GitHub profile](https://github.com/FelixMarian)
 
